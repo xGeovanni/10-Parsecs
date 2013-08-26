@@ -1,0 +1,6 @@
+Music & sounds.
+Smoke at laser point.
+Pirates easier to hit.
+Star background texture.
+Nicer ship models (OpenGameArt)
+Can land on planets. (Why?)
